@@ -1,3 +1,10 @@
+body{
+ font: arial,sans-serif;
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
 .navbar {
     background-color: #333;
     position: fixed;
@@ -138,3 +145,6 @@ section {
     padding: 13px 5px;
     border-radius: 0.375rem;
   }
+#section {
+  margin: 70px 0px 0px 0px ;
+}
