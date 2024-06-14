@@ -52,15 +52,16 @@ section {
 }
 
 #about {
-    background-color: #e8f4ef;
+    background-color: #d6d1d1;
 }
 
 #services {
-    background-color: #eaf1dc;
+    background-color: #bfbbbb;
 }
 
 #contact {
-    background-color: #e2eff4;
+
+    background-color: #acaaaa;
 }
 
 @media (max-width: 768px) {
@@ -147,5 +148,5 @@ section {
   }
 
 #section {
-  margin: 70px 0px 0px 0px ;
+ margin: 70px 0px 0px 0px ;
 }
